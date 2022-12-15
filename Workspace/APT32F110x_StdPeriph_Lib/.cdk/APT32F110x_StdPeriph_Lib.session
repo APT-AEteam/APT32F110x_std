@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F110\APT32F110_Lib\STD\APT32F110x_StdPeriph_Lib_V1_04\Workspace\APT32F110x_StdPeriph_Lib\APT32F110x_StdPeriph_Lib.cdkws">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F110\APT32F110_Lib\STD\APT32F110x_StdPeriph_Lib_V1_04\Workspace\APT32F110x_StdPeriph_Lib\APT32F110x_StdPeriph_Lib.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F110\APT32F110_Lib\STD\APT32F110x_StdPeriph_Lib_V1_04\Source\apt32f110x_initial.c" Name="FileName"/>
+      <int Value="889" Name="FirstVisibleLine"/>
+      <int Value="905" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F110\APT32F110_Lib\STD\APT32F110x_StdPeriph_Lib_V1_04\Source\main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F110\APT32F110_Lib\STD\APT32F110x_StdPeriph_Lib_V1_04\Source\FWlib\apt32f110x_tkey_parameter.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
