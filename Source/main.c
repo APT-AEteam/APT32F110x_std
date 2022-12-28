@@ -2,7 +2,7 @@
   ******************************************************************************
   * @file    main.c
   * @author  APT SZ AE Team
-  * @version V1.03
+  * @version V1.0.5
   * @date    2022/10/08
   ******************************************************************************
   *THIS SOFTWARE WHICH IS FOR ILLUSTRATIVE PURPOSES ONLY WHICH PROVIDES 
